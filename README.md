@@ -47,8 +47,8 @@ Aplicación web desarrollada con **React** y **Java/Node.js** para gestionar cli
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephch28)  
-✉️ Correo: tuemail@example.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/josephch28](https://www.linkedin.com/in/joseph-chachalo-0860072b2/))  
+✉️ Correo: josephdamianch@gmail.com
 
 ---
 
