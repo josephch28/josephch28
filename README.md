@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hola, soy Joseph Chachalo
 
-<!--
-**josephch28/josephch28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub!  
+Estudiante de **Ingeniería de Software** en la **Universidad Técnica de Ambato**. Me apasiona el **desarrollo de software**, la **inteligencia artificial** y los **videojuegos**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologías y Habilidades
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📂 Proyectos Destacados
+
+### 🧮 Calculadora de Métodos Numéricos
+Proyecto académico para resolver ecuaciones usando diferentes métodos numéricos.  
+![Calculadora](https://via.placeholder.com/600x200?text=Proyecto+Calculadora)  
+
+### 🏢 Sistema de Gestión de Seguros
+Aplicación web desarrollada con **React** y **Java/Node.js** para gestionar clientes, seguros y reportes.  
+![Sistema de Seguros](https://via.placeholder.com/600x200?text=Sistema+de+Seguros)  
+
+🔗 [Ver todos mis proyectos](https://github.com/josephch28?tab=repositories)
+
+---
+
+## 🌱 Intereses y Aprendizaje
+
+- Inteligencia Artificial  
+- Desarrollo de Videojuegos  
+- Desarrollo Web y Aplicaciones  
+- Próximos objetivos: Aprender Unity y profundizar en IA con Python
+
+---
+
+## 🌐 Otros Datos
+
+- Idiomas: Inglés  
+- Hobbies: Música y producción musical  
+
+---
+
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephch28)  
+✉️ Correo: tuemail@example.com
+
+---
+
+*“Siempre aprendiendo, siempre creando.”* 🚀
