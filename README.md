@@ -19,11 +19,11 @@ Estudiante de **Ingeniería de Software** en la **Universidad Técnica de Ambato
 
 ### 🧮 Calculadora de Métodos Numéricos
 Proyecto académico para resolver ecuaciones usando diferentes métodos numéricos.  
-![Calculadora](https://github.com/EmeritusK/numeric-methods-calculator)  
+[Calculadora](https://github.com/EmeritusK/numeric-methods-calculator)  
 
 ### 🏢 Sistema de Gestión de Seguros
 Aplicación web desarrollada con **React** y **Java/Node.js** para gestionar clientes, seguros y reportes.  
-![Sistema de Seguros](https://github.com/josephch28/proyecto_seguros)  
+[Sistema de Seguros](https://github.com/josephch28/proyecto_seguros)  
 
 🔗 [Ver todos mis proyectos](https://github.com/josephch28?tab=repositories)
 
@@ -47,7 +47,7 @@ Aplicación web desarrollada con **React** y **Java/Node.js** para gestionar cli
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/josephch28](https://www.linkedin.com/in/joseph-chachalo-0860072b2/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-chachalo-0860072b2/)
 ✉️ Correo: josephdamianch@gmail.com
 
 ---
