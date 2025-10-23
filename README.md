@@ -45,9 +45,16 @@ Aplicación web desarrollada con **React** y **Java/Node.js** para gestionar cli
 
 ---
 
+## 📊 Mis Estadísticas de GitHub
+
+![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephch28&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josephch28&layout=compact&theme=radical)
+
+---
+
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-chachalo-0860072b2/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-chachalo-0860072b2/)  
 
 ✉️ Correo: josephdamianch@gmail.com
 
